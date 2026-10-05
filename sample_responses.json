@@ -1,0 +1,14 @@
+{
+  "updated": "2026-01-01T00:00:00Z",
+  "note": "Sample rows for testing only. Open the site with ?demo=1 to display them. Not real survey data.",
+  "data": [
+    {"Timestamp":"2026-01-01T06:10:00Z","Latitude":6.9242,"Longitude":79.8447,"Landmark Category":"Recreational","Frequency of Visit":"Weekly","Primary Reason for Attachment":"Evening walks and kite flying with family","Place Attachment Rating":5},
+    {"Timestamp":"2026-01-01T06:20:00Z","Latitude":6.9458,"Longitude":79.8548,"Landmark Category":"Religious","Frequency of Visit":"Weekly","Primary Reason for Attachment":"Annual feast and family tradition","Place Attachment Rating":5},
+    {"Timestamp":"2026-01-01T06:30:00Z","Latitude":6.9631,"Longitude":79.8667,"Landmark Category":"Livelihood","Frequency of Visit":"Daily","Primary Reason for Attachment":"Fishing landing site where I work","Place Attachment Rating":4},
+    {"Timestamp":"2026-01-01T06:40:00Z","Latitude":6.8778,"Longitude":79.8569,"Landmark Category":"Recreational","Frequency of Visit":"Daily","Primary Reason for Attachment":"Morning exercise on the walkway","Place Attachment Rating":4},
+    {"Timestamp":"2026-01-01T06:50:00Z","Latitude":7.2305,"Longitude":79.8388,"Landmark Category":"Livelihood","Frequency of Visit":"Daily","Primary Reason for Attachment":"Selling fish at the beach front","Place Attachment Rating":5},
+    {"Timestamp":"2026-01-01T07:00:00Z","Latitude":6.9391,"Longitude":79.8587,"Landmark Category":"Historical","Frequency of Visit":"Monthly","Primary Reason for Attachment":"Colonial-era church with family history","Place Attachment Rating":3},
+    {"Timestamp":"2026-01-01T07:10:00Z","Latitude":6.8375,"Longitude":79.8631,"Landmark Category":"Recreational","Frequency of Visit":"Rarely","Primary Reason for Attachment":"Childhood holidays at the beach","Place Attachment Rating":4},
+    {"Timestamp":"2026-01-01T07:20:00Z","Latitude":6.7120,"Longitude":79.8820,"Landmark Category":"Livelihood","Frequency of Visit":"Weekly","Primary Reason for Attachment":"Estuary boat trips","Place Attachment Rating":3}
+  ]
+}

@@ -1,0 +1,111 @@
+{
+ "type": "FeatureCollection",
+ "name": "official_sites",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colombo Fort Old Lighthouse Clock Tower",
+    "category": "Gazetted Architecture",
+    "type": "official"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8423,
+     6.9366
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Old Dutch Hospital Complex",
+    "category": "Colonial Built Heritage",
+    "type": "official"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8436,
+     6.9341
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Grand Oriental Hotel & York Street Arcades",
+    "category": "Colonial Port Heritage",
+    "type": "official"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.842,
+     6.936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Old Dutch Museum (Pettah)",
+    "category": "Gazetted Museum",
+    "type": "official"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8488,
+     6.9372
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Saint Anthony's Shrine, Kochchikade",
+    "category": "Religious Heritage",
+    "type": "official"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8548,
+     6.9458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Wolvendaal Church",
+    "category": "Colonial Built Heritage",
+    "type": "official"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8587,
+     6.9391
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Old Parliament Building",
+    "category": "Gazetted Civic Built Heritage",
+    "type": "official"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8429,
+     6.9298
+    ]
+   }
+  }
+ ]
+}

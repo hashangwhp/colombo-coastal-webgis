@@ -1,0 +1,111 @@
+{
+ "type": "FeatureCollection",
+ "name": "community_entries",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Galle Face Green Promenade",
+    "category": "Public Open Space / Leisure",
+    "type": "community"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8447,
+     6.9242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Colombo Port City Coastal Promenade",
+    "category": "Reclaimed Waterfront",
+    "type": "community"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.839,
+     6.9312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Wellawatte Marine Drive Coastal Walkway",
+    "category": "Linear Coastal Walkway",
+    "type": "community"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8569,
+     6.8778
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Dehiwala - Mount Lavinia Beach Stretch",
+    "category": "Cultural Beach Stretch",
+    "type": "community"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8631,
+     6.8375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Crow Island Beach Park (Mattakkuliya)",
+    "category": "Coastal Urban Park",
+    "type": "community"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8667,
+     6.9631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Negombo Beach Park & Estuary",
+    "category": "Community Beach Front",
+    "type": "community"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8388,
+     7.2305
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Panadura Estuary Beach Front",
+    "category": "Coastal Recreational Space",
+    "type": "community"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.882,
+     6.712
+    ]
+   }
+  }
+ ]
+}
