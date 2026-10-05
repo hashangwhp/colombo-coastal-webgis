@@ -54,9 +54,9 @@
   }
 
   Promise.all([
-    getJSON("data/gn_divisions.geojson"),
-    getJSON("data/official_sites.geojson"),
-    getJSON("data/community_entries.geojson")
+    getJSON("gn_divisions.geojson"),
+    getJSON("official_sites.geojson"),
+    getJSON("community_entries.geojson")
   ]).then(function (res) {
     gnData = res[0]; officialData = res[1]; seedData = res[2];
     buildGN(); buildOfficial(); buildSeed();
@@ -181,7 +181,7 @@
 
   function loadResponses() {
     var demo = /[?&]demo=1/.test(location.search);
-    var url = demo ? "data/sample_responses.json" : CFG.RESPONSES_URL;
+    var url = demo ? "sample_responses.json" : CFG.RESPONSES_URL;
     if (!url) { setStatus("No responses URL configured", true); return; }
     getJSON(url).then(function (json) {
       var rows = Array.isArray(json) ? json : (json.data || json.rows || json.responses || []);
